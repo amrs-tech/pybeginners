@@ -1,0 +1,38 @@
+Metadata-Version: 2.1
+Name: pybeginners
+Version: 1.0.1
+Summary: A package to use some basic numeric/math functionalities
+Home-page: https://github.com/amrs-tech/pybeginners
+Author: Ahamed Musthafa
+Author-email: amrs.tech@gmail.com
+License: UNKNOWN
+Description: # pybeginners
+        
+        Python package to help beginners with basic math program functionalities like
+        
+        * isprime(number)
+        * oddeven(number)
+        * issquare(number)
+        * iscube(number)
+        
+        ## Installation
+        
+        `pip install pybeginners`
+        
+        ## How to Use
+        
+        1. Install the package.
+        2. To check if a number is perfect square, use the following code:
+        
+        	```
+        	from pybeginners import programs
+        	print(programs.issquare(number))
+        	```
+        3. Similarly, you can use `programs.isprime(number)` and two more functions.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.4
+Description-Content-Type: text/markdown

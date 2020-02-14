@@ -1,0 +1,8 @@
+README.md
+setup.py
+pybeginners/__init__.py
+pybeginners/programs.py
+pybeginners.egg-info/PKG-INFO
+pybeginners.egg-info/SOURCES.txt
+pybeginners.egg-info/dependency_links.txt
+pybeginners.egg-info/top_level.txt
