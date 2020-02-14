@@ -1,6 +1,6 @@
 # pybeginners
 
-<!--[![Build Status](https://travis-ci.org/amrs-tech/pybeginners.svg?branch=master)](https://travis-ci.org/amrs-tech/pybeginners)-->
+[![Build Status](https://travis-ci.org/amrs-tech/pybeginners.svg?branch=master)](https://travis-ci.org/amrs-tech/pybeginners)
 [![PyPI - License](https://img.shields.io/pypi/l/pybeginners)](https://raw.githubusercontent.com/amrs-tech/pybeginners/master/LICENSE)
 ![PyPI](https://img.shields.io/pypi/v/pybeginners)
 <!--[![PyPI - Downloads](https://img.shields.io/pypi/dd/pybeginners)](https://pypi.org/project/pybeginners/)-->
